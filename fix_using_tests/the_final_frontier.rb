@@ -14,4 +14,3 @@ def engage(date)
   puts state_log(date)
 
 end
-
