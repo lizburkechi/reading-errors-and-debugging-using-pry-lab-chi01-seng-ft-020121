@@ -1,4 +1,4 @@
-# don't forget to add: require 'pry'
+require 'pry'# don't forget to add: require 'pry'
 
 def get_user_input
   gets.chomp
